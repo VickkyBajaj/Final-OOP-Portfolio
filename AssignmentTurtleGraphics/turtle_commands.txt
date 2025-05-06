@@ -1,0 +1,8 @@
+clear
+pendown
+square 100
+left
+left 190
+move 100
+loadcommands
+clear
