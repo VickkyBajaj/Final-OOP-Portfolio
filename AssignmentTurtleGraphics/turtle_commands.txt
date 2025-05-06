@@ -1,8 +1,25 @@
 clear
-pendown
 square 100
-left
-left 190
+circle 100
+pendown
+circle 100
+lrft 90
+left 90
 move 100
+reset
+clear
+load
 loadcommands
+clear
+about
+clear
+square 100
+pencolour 100 100 100
+left 90
+move 100
+penwidth 5
+move 100
+reset
+clear
+triangle 100
 clear
